@@ -19,6 +19,12 @@ This Python script performs the following tasks:
   - Plotly (`pip install plotly`)
   - Bokeh (`pip install bokeh`)
 - **Dataset**: "Edmonton Public Schools (2015 - 2016)" downloaded from City of Edmonton Data Portal: https://data.edmonton.ca/Community-Centres/Edmonton-Public-Schools-2015-2016-/ehbr-emhe/data_preview.
+- 
+## Versions Used:
+1. Python version: 3.12.9
+2. Pandas version: 2.2.3
+3. Plotly version: 6.0.0
+4. Bokeh version: 3.6.3
 
 ## How to Run the Code
 ### Prerequisites
